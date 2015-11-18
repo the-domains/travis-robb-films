@@ -17,8 +17,8 @@ keywords:
   - plus
   - audiences
 description: 'Here is my first Demo Reel. It features works from recent commercial, film, web and film projects. I love filmmaking and to create a short form reel that shows what I have been up to is a ton of fun!! Enjoy, shoot me some feedback or even book me on a gig! I love it all!! TR'
-datePublished: '2015-11-18T20:52:06.823Z'
-dateModified: '2015-11-18T20:51:54.836Z'
+datePublished: '2015-11-18T21:27:58.583Z'
+dateModified: '2015-11-18T21:23:54.878Z'
 author:
   - name: Travis Robb
     url: 'http://vimeo.com/user4284273'
