@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/134372695'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - tutorials
   - hmm
@@ -17,8 +17,8 @@ keywords:
   - plus
   - audiences
 description: 'Here is my first Demo Reel! I love filmmaking and creating this to share what I have been up to recently is an absolute pleasure!! Enjoy and please feel free to hit me up with some feedback!! '
-datePublished: '2015-11-18T21:47:59.348Z'
-dateModified: '2015-11-18T21:47:53.057Z'
+datePublished: '2015-11-18T21:48:33.249Z'
+dateModified: '2015-11-18T21:48:17.297Z'
 author:
   - name: Travis Robb
     url: 'http://vimeo.com/user4284273'
