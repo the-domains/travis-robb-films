@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Travis Robb FILMS]]></title>
+        <description><![CDATA[Travis Robb FILMS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 19:51:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my new Website. This is a place I share the things that inspire my creative processes and also host my recent works to share with all of you! ]]></title>
+            <description><![CDATA[<article><h1>Welcome to my new Website. This is a place I share the things that inspire my creative processes and also host my recent works to share with all of you! </h1><p>This site has been a long time coming and I am really excited to start this journey of sharing my inspirations and personal here on this site! </p></article>]]></description>
+            <link>undefinedwelcome-to-my-new-website-this-is-a-place-i-share-the-thing/index.html</link>
+            <guid isPermaLink="false">da1960e3-3b1d-4e36-89e0-6c2cef3786ca</guid>
+            <pubDate>Wed, 18 Nov 2015 19:51:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
