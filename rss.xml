@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Travis Robb FILMS]]></title>
+        <description><![CDATA[Travis Robb FILMS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 21:35:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Travis Robb Films]]></title>
+            <description><![CDATA[<article><h1>Travis Robb Films</h1><p></p></article>]]></description>
+            <link>http://trfilm.wix.com/travisrobb</link>
+            <guid isPermaLink="false">eaf1d9a9-953f-4b52-9edc-f9332aa38bb4</guid>
+            <pubDate>Wed, 18 Nov 2015 21:35:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
