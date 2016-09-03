@@ -1,19 +1,4 @@
-name: Travis Robb FILMS
-favicon: null
-layout_spectrum: 0.59346
 typography_spectrum: 0.23614
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000606'
@@ -25,4 +10,19 @@ color:
   lightness: 0.375
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.59346
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Travis Robb FILMS
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
