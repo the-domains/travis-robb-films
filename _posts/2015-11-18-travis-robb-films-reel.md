@@ -1,10 +1,8 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://vimeo.com/134372695'
 inLanguage: en
-starred: true
 keywords:
   - tutorials
   - hmm
@@ -16,30 +14,44 @@ keywords:
   - load
   - plus
   - audiences
-description: 'Here is my first Demo Reel! I love filmmaking and creating this to share what I have been up to recently is an absolute pleasure!! Enjoy and please feel free to hit me up with some feedback!! '
-datePublished: '2015-11-18T21:48:33.249Z'
-dateModified: '2015-11-18T21:48:17.297Z'
+description: >-
+  Here is my first Demo Reel! I love filmmaking and creating this short form
+  demo reel to share what I have been up to recently has been an absolute
+  pleasure!! Enjoy and please feel free to hit me up with some feedback!! 
+datePublished: '2016-08-31T18:48:32.941Z'
+dateModified: '2016-08-31T18:48:32.544Z'
 author:
   - name: Travis Robb
     url: 'http://vimeo.com/user4284273'
     avatar:
-      src: 'https://i.vimeocdn.com/portrait/2648063_75x75.jpg'
+      src: >-
+        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/988e65aad89fe9c596ffdd3a9899f044/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fportrait%2F2648063_75x75.jpg
+      original: 'https://i.vimeocdn.com/portrait/2648063_75x75.jpg'
       width: 75
       height: 75
       colors:
-        - - 221
-          - 233
-          - 248
-        - - 151
-          - 163
-          - 192
+        - - 225
+          - 231
+          - 247
+        - - 141
+          - 146
+          - 175
+        - - 167
+          - 171
+          - 198
+        - - 179
+          - 185
+          - 209
+        - - 196
+          - 201
+          - 221
 related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/134372695'
     type: ios
     app_store_id: '425194759'
     app_name: Vimeo
-title: TRAVIS ROBB FILMS // REEL
+title: TRAVIS ROBB FILMS // REEL 01
 authors: []
 publisher:
   name: Vimeo
@@ -47,7 +59,9 @@ publisher:
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 sourcePath: _posts/2015-11-18-travis-robb-films-reel.md
-published: true
+via: {}
+starred: true
+url: travis-robb-films-reel-01/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
